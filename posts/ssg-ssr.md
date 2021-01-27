@@ -1,5 +1,5 @@
 ---
-title: "When to Use Static Generation v.s. Server-side Rendering"
+title: "にえるを新しくReactとNext.jsでつくる"
 date: "2020-01-02"
 ---
 
